@@ -1,0 +1,22 @@
+body{
+   background-size: cover;
+   background-position: center;
+}
+
+#heading {
+    font-size: 18px;
+    width: 100%;
+    margin: 0%;
+}
+
+#input{
+    float: none;
+}
+
+canvas{
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px powderblue;
+    border-radius: 10px;
+    
+}
+
